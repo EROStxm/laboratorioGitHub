@@ -1,0 +1,2 @@
+hay que conectarse remotamente en git hub con git local 
+esto realizarlo si o si
